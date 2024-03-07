@@ -28,11 +28,11 @@ Our analysis utilizes a dataset of 7,291 tweets, sourced from the Twitter API an
 
 ## Group Member Contributions
 
-- Member 1: [Name], [Contributions]
-- Member 2: [Name], [Contributions]
-- Member 3: [Name], [Contributions]
-- Member 4: [Name], [Contributions]
-- Member 5: [Name], [Contributions]
+- Member 1: [Alex Aselstyne], [Contributions]
+- Member 2: [Aidan Sibley], [Contributions]
+- Member 3: [Brian Cabingan], [Contributions]
+- Member 4: [Ryan Lee], [Contributions]
+- Member 5: [Bright Olaleye], [Contributions]
 
 All members have actively participated in the initial planning, review of related work, formulation of research questions, and proposal drafting. Our strategy involves leveraging each member's strengths for different aspects of the project, ensuring effective collaboration and progress.
 
